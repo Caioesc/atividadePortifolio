@@ -1,0 +1,56 @@
+.cabecalho{
+    background-color: blueviolet;
+    margin-bottom: 25px;
+    padding: 15px;
+}
+
+.cabecalho-titulo{
+    color: cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.cabecalho-subtitulo{
+    color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.div-botao{
+    background-color: aquamarine;
+    height: 150px;
+    width: 150px;
+    
+}
+
+.div-conteudo{
+    align-items: start;
+    background-color: chartreuse;
+    gap: 10px 20px;
+    justify-content: center;
+    height: 400px;
+
+}
+
+.div-video-container{
+    max-height: 300px;
+    overflow: hidden;
+    position: relative;
+}
+
+.rodape{
+    background-color: brown;
+}
+
+.video-player{
+    margin-top: -200px;
+    width: 100%;
+}
+
+.video-source{
+    height: auto;
+}
+
+body{
+    margin: 0px;
+   
+}
