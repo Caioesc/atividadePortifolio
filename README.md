@@ -35,5 +35,5 @@ Este repositório contém o código da **Atividade Portfólio**, desenvolvida co
 
 4. Caso contrário, abra o arquivo index.html diretamente no seu navegador.
 
-👨‍💻 Autor
+👨‍💻
 Feito por Caio Escorel. Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato.
