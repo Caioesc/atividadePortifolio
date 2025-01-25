@@ -1,34 +1,35 @@
 .cabecalho{
-    background-color: blueviolet;
-    margin-bottom: 25px;
+    background-color: #2b4f8d;
+    margin-bottom: 10px;
     padding: 15px;
 }
 
 .cabecalho-titulo{
-    color: cadetblue;
+    color: #c4d9ff;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
 }
 
 .cabecalho-subtitulo{
-    color: bisque;
+    color: #e8f9ff;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .div-botao{
-    background-color: aquamarine;
+    background-color: #333;
+    color: #e8f9ff;
     height: 150px;
     width: 150px;
-    
+    border-radius: 100%;
 }
 
 .div-conteudo{
     align-items: start;
-    background-color: chartreuse;
-    gap: 10px 20px;
+    gap: 10px 200px;
     justify-content: center;
     height: 400px;
-
+    align-items: center;
+    text-align: center;
 }
 
 .div-video-container{
@@ -37,8 +38,35 @@
     position: relative;
 }
 
+.div-informacoes-pessoais{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+
+.div-informacoes-contato{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.div-informacoes-formacao{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.div-conteudo img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
 .rodape{
-    background-color: brown;
+    background-color: #2b4f8d;
+    color: #e8f9ff;
+    font-family: Calibri, sans-serif;
 }
 
 .video-player{
@@ -52,5 +80,5 @@
 
 body{
     margin: 0px;
-   
-}
+    background-color: #041634;
+}   
